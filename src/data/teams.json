@@ -1,0 +1,54 @@
+[
+  {
+    "id": "team_001",
+    "name": "Frontend Team",
+    "description": "Responsible for building and maintaining the user interface.",
+    "leaderId": "84b99ae7-4697-4a81-9dc4-16784cdab3d1",
+    "members": [
+      "84b99ae7-4697-4a81-9dc4-16784cdab3d1",
+      "3f47589b-acb6-44fc-9419-cba61d475d7e",
+      "78e2d71f-840d-4185-a0a7-4c506484b5e5"
+    ],
+    "projects": [
+      "b4b8f87f-fbe1-4e70-a291-679a6892fc4c",
+      "PRJ-1001"
+    ],
+    "status": "ACTIVE",
+    "color": "#3B82F6",
+    "createdAt": "2026-07-08T09:00:00Z",
+    "updatedAt": "2026-07-09T11:55:00.532Z"
+  },
+  {
+    "id": "team_002",
+    "name": "Backend Team",
+    "description": "Develops APIs and manages server-side services.",
+    "leaderId": "user_004",
+    "members": [
+      "user_004",
+      "user_005",
+      "user_006"
+    ],
+    "projects": [
+      "project_003"
+    ],
+    "status": "ACTIVE",
+    "color": "#10B981",
+    "createdAt": "2026-07-08T09:00:00Z",
+    "updatedAt": "2026-07-13T12:49:42.970Z"
+  },
+  {
+    "id": "team_003",
+    "name": "QA Team",
+    "description": "Ensures software quality through testing and automation.",
+    "leaderId": "user_007",
+    "members": [
+      "user_007",
+      "user_008"
+    ],
+    "projects": [],
+    "status": "ACTIVE",
+    "color": "#F59E0B",
+    "createdAt": "2026-07-08T09:00:00Z",
+    "updatedAt": "2026-07-08T09:00:00Z"
+  }
+]

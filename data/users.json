@@ -1,0 +1,34 @@
+[
+  {
+    "id": "84b99ae7-4697-4a81-9dc4-16784cdab3d1",
+    "name": "Arslan sohail",
+    "email": "arslan@gmail.com",
+    "passwordHash": "b99044ab1d3c2d70d2572402e777b8d4:fe0f6b13b4155ec1cb8eb362a745e8080becd82d885ea899e9e06e45e51dca03",
+    "role": "SUPER_ADMIN",
+    "createdAt": "2026-06-23T11:48:23.554Z"
+  },
+  {
+    "id": "3f47589b-acb6-44fc-9419-cba61d475d7e",
+    "name": "Awais Sohail",
+    "email": "awais@gmail.com",
+    "passwordHash": "b95334e1a16091b6d7fb49f5387df516:e42855a1dc4e6e88da39d50ec5df78f59747a0bf88e73eca2eae59e76f0e315d",
+    "role": "ADMIN",
+    "createdAt": "2026-06-24T15:01:38.577Z"
+  },
+  {
+    "id": "78e2d71f-840d-4185-a0a7-4c506484b5e5",
+    "name": "talha",
+    "email": "talha@gmail.com",
+    "passwordHash": "7c2ec270a07ab671c6e092a07d2399cb:9541e52c17233c5248d07bcb61cd14d824725aed425e5ae6d5e2072e588d9b40",
+    "role": "ADMIN",
+    "createdAt": "2026-06-24T15:34:53.831Z"
+  },
+  {
+    "id": "6af10023-cf99-4560-ae73-ee82d7d3ec36",
+    "name": "Ali",
+    "email": "ali@gmail.com",
+    "passwordHash": "dbce26701dcd358f70ac78330c7896a2:4e7aa5136c61a6b515388075252275676387762521f365ada225c0b03ebdf436",
+    "role": "EDITOR",
+    "createdAt": "2026-06-30T08:54:22.953Z"
+  }
+]
